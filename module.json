@@ -1,0 +1,17 @@
+{
+    "name": "dnd-statblock-importer",
+    "title": "Dnd5e Stackblock Importer",
+    "description": "A module to convert raw Dnd5e Statblocks to Actors",
+    "version": "0.0.1",
+    "author": "Occidio",
+    "systems": ["dnd5e"],
+    "esmodules": ["dndstatblockimporter.js"],
+    "styles": ["dndstatblockimporter.css"],
+    "templates": ["dndstatblockimporter.html"],
+    "packs": [],
+    "url": "https://github.com/Occidio/DND-StatBlock-Importer",
+    "manifest": "https://raw.githubusercontent.com/Occidio/DND-StatBlock-Importer/main/module.js",
+    "download": "https://github.com/Occidio/DND-StatBlock-Importer/archive/main.zip",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9"
+}
