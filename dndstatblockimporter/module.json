@@ -10,8 +10,8 @@
     "templates": ["dndstatblockimporter.html"],
     "packs": [],
     "url": "https://github.com/Occidio/DND-StatBlock-Importer",
-    "manifest": "https://raw.githubusercontent.com/Occidio/DND-StatBlock-Importer/main/dndstatblockimporter/module.json",
-    "download": "https://github.com/Occidio/DND-StatBlock-Importer/archive/main.zip",
+    "manifest": "https://github.com/Occidio/DND-StatBlock-Importer/releases/download/v0.0.1-alpha/module.json",
+    "download": "https://github.com/Occidio/DND-StatBlock-Importer/releases/download/v0.0.1-alpha/v0.0.1-alpha_dndstatblockimporter.zip",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.7.9"
 }
