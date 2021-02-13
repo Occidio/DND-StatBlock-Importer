@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "author": "Occidio",
     "systems": ["dnd5e"],
-    "esmodules": ["dndstatblockimporter.js"],
+    "esmodules": ["./scripts/dndstatblockimporter.js"],
     "styles": ["dndstatblockimporter.css"],
     "templates": ["dndstatblockimporter.html"],
     "packs": [],
